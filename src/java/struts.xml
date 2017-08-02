@@ -1,0 +1,36 @@
+<!DOCTYPE struts PUBLIC
+"-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+"http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+    <!-- Configuration for the default package. -->
+    <package name="default" extends="struts-default">
+        <action name="reg" class="hp.Register" >
+            <result name="success">success.jsp</result>
+        </action>
+       <action name="login" class="hp.Login" method="login">
+            <result name="success">ItemsList.jsp</result>
+            <result name="input">index.jsp</result>
+            <result name="fail">index.jsp</result>
+        </action>
+        <action name="logout" class="hp.Login" method="logout">
+            <result name="success">index.jsp</result>
+        </action>
+        <action name="product" class="hp.Product" method="about">
+            <result name="success">ProductDescription.jsp</result>
+            <result name="input">index.jsp</result>
+        </action>
+        <action name="add" class="hp.Product" method="addToCart">
+            <result name="success">MyCart.jsp</result>
+            <result name="input">index.jsp</result>
+        </action>
+        <action name="remove" class="hp.Product" method="remove">
+            <result name="success">MyCart.jsp</result>
+            <result name="input">index.jsp</result>
+        </action>
+        <action name="order" class="hp.Product" method="addInOrder">
+            <result name="success">OrderList.jsp</result>
+            <result name="input">index.jsp</result>
+        </action>
+    </package>
+</struts>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/src/java/items.hbm.xml</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/web/img.jpg</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/web/OrderList.jsp</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/web/Admin.jsp</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/web/menu.jsp</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/src/java/hp/Login.java</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/web/aweStuffs.txt</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/web/index.jsp</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/src/java/Dao/Awe.java</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/src/java/bean/MyCart.java</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/src/java/hp/Register.java</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/src/java/Dao/AddToMyCart.java</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/src/java/Dao/RemoveFromMyCart.java</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/src/java/Dao/AddToMyOrderList.java</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/web/sortbyname.jsp</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/web/ProductDescription.jsp</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/src/java/bean/Orders.java</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/src/java/hp/Product.java</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/src/java/users.hbm.xml</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/src/java/Dao/GetDescription.java</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/src/java/Dao/RegisterDao.java</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/src/java/Dao/GetItems.java</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/src/java/Dao/GetCartItems.java</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/src/java/bean/User.java</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/src/java/struts.xml</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/src/java/bean/Item.java</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/web/ItemsList.jsp</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/web/chart.jsp</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/src/java/hp/InsertItemsInCash_items.java</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/web/sortbyprice.jsp</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/src/java/bean/ItemAndCount.java</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/src/java/getcartitem.hbm.xml</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/src/java/Dao/LoginDao.java</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/web/registration.jsp</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/src/java/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/AlokKumar/Documents/NetBeansProjects/OnlineShoppingStrutsHibernate/web/MyCart.jsp</file>
+        </group>
+    </open-files>
+</project-private>

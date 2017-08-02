@@ -1,0 +1,3 @@
+
+to create dropdown menu;
+<html:select name="country"  headerKey="-1" list="{'India','Pakistan'}" cssClass="inputfield"/>
