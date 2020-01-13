@@ -1,7 +1,7 @@
 # E-Commerce-Site
-A site to do economical activity made using MVC 2 architecture.<br/>
-Sellers can upload their product details and Customers can choose and buy items which they wants.<br/>
-There will be an Admin which maintain this site and control the economical activity.
+A site for economical activity made using MVC 2 architecture.<br/>
+Here a seller can upload his product details and a customers can choose and buy items.<br/>
+There will be an Admin whose purpose is to maintaining the site and controlling the others activities activity.
 <pre>
 Front-end   : HTML5 | JavaScript | Css
 Back-end    : Servlet 3.0
